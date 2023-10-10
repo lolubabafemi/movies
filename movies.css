@@ -42,3 +42,50 @@
     display: table;
     clear: both;
 }
+
+
+
+.avengersandwolf {
+    width: 75%;
+    margin: 30px auto 30px;
+}
+
+.avengers,
+.wolf {
+    width: 46.5%;
+}
+
+.avengers img {
+    width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+}
+
+.wolf img {
+    width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+}
+
+.avengers h3,
+.wolf h3 {
+    text-align: left;
+}
+
+.avengers p,
+.wolf p {
+    font-size: 1em;
+    text-align: left;
+}
+
+.avengers {
+    float: left;
+}
+
+.wolf {
+    float: right;
+}
+
+.group {
+    content: "";
+    display: table;
+    clear: both;
+}
