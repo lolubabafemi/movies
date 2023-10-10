@@ -28,3 +28,17 @@
     font-size: 1em;
     text-align: left;
 }
+
+.avatar {
+    float: left;
+}
+
+.legend {
+    float: right;
+}
+
+.group {
+    content: "";
+    display: table;
+    clear: both;
+}
