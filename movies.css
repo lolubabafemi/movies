@@ -89,3 +89,50 @@
     display: table;
     clear: both;
 }
+
+
+
+.rightandleft {
+    width: 75%;
+    margin: 30px auto 30px;
+}
+
+.left,
+.right {
+    width: 46.5%;
+}
+
+.left img {
+    width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+}
+
+.right img {
+    width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+}
+
+.left h3,
+.right h3 {
+    text-align: left;
+}
+
+.left p,
+.right p {
+    font-size: 1em;
+    text-align: left;
+}
+
+.left {
+    float: left;
+}
+
+.right {
+    float: right;
+}
+
+.group {
+    content: "";
+    display: table;
+    clear: both;
+}
