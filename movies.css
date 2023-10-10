@@ -1,95 +1,19 @@
-.avatarandsparta {
-    width: 75%;
-    margin: 30px auto 30px;
-}
-
-.avatar,
-.sparta {
-    width: 46.5%;
-}
-
-.avatar img {
-    width: 100%;
-    box-shadow: 0 2px 20px -12px #222;
-}
-
-.sparta img {
-    width: 100%;
-    box-shadow: 0 2px 20px -12px #222;
-}
-
-.avatar h3,
-.sparta h3 {
-    text-align: left;
-}
-
-.avatar p,
-.sparta p {
+.body {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.5;
     font-size: 1em;
-    text-align: left;
+    background-color: white;
 }
 
-.avatar {
-    float: left;
+.picture {
+    width: 20%;
 }
-
-.sparta {
-    float: right;
+.header {
+    padding-top: 5%;
+    background-color: rgb(219, 219, 163);
+    height: 850px;
 }
-
-.group {
-    content: "";
-    display: table;
-    clear: both;
-}
-
-
-
-.avengersandwolf {
-    width: 75%;
-    margin: 30px auto 30px;
-}
-
-.avengers,
-.wolf {
-    width: 46.5%;
-}
-
-.avengers img {
-    width: 100%;
-    box-shadow: 0 2px 20px -12px #222;
-}
-
-.wolf img {
-    width: 100%;
-    box-shadow: 0 2px 20px -12px #222;
-}
-
-.avengers h3,
-.wolf h3 {
-    text-align: left;
-}
-
-.avengers p,
-.wolf p {
-    font-size: 1em;
-    text-align: left;
-}
-
-.avengers {
-    float: left;
-}
-
-.wolf {
-    float: right;
-}
-
-.group {
-    content: "";
-    display: table;
-    clear: both;
-}
-
 
 
 .rightandleft {
