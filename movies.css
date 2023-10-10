@@ -2,3 +2,29 @@
     width: 75%;
     margin: 30px auto 30px;
 }
+
+.avatar,
+.legend {
+    width: 46.5%;
+}
+
+.avatar img {
+    width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+}
+
+.legend img {
+    width: 100%;
+    box-shadow: 0 2px 20px -12px #222;
+}
+
+.avatar h3,
+.legend h3 {
+    text-align: left;
+}
+
+.avatar p,
+.legend p {
+    font-size: 1em;
+    text-align: left;
+}
